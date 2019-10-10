@@ -1,7 +1,11 @@
 .console-output {
     padding: 1em;
     background-color: #121212;
-    color: white;
+    color: darkgrey;
+}
+
+.timestamp {
+    color: lightgrey
 }
 
 .console-output a:link {
